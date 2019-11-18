@@ -6,4 +6,4 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 * [Climate Hazards group Infrared Precipitation with Stations (CHIRPS)](ftp://ftp.chg.ucsb.edu/pub/org/chg/products/CHIRPS-2.0)
 * [WorldClim](http://www.worldclim.org/)
 
-# Bibliografía
+## Bibliografía
