@@ -6,6 +6,8 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 * [MERRAclim](https://datadryad.org/stash/dataset/doi:10.5061/dryad.s2v81)
 * [WorldClim](http://www.worldclim.org/)
 
+## Herramientas
+Para ejecutar los programas, se recomienda instalar la distribución de Python incluida en la plataforma [Anaconda](https://www.anaconda.com/).
 
 ## Bibliografía
 C. Vega, G., Pertierra, L. R., & Olalla-Tárraga, M. Á. (2017). MERRAclim, a high-resolution global dataset of remotely sensed bioclimatic variables for ecological modelling. Scientific Data, 4(1), 170078. https://doi.org/10.1038/sdata.2017.78
