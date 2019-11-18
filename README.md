@@ -1,5 +1,5 @@
 # Generación de series temporales de datos climáticos
-Este repositorio contiene programas en el lenguaje [Python](https://www.python.org/) para la generación de series temporales de datos climáticos generados a partir de fuentes como:
+Este repositorio contiene programas en el lenguaje [Python](https://www.python.org/) para la generación de series temporales de datos climáticos a partir de fuentes como:
 
 * [Climate Hazards group Infrared Precipitation with Stations (CHIRPS)](http://bit.ly/climate-chirps)
 * [Climatologies at High resolution for the Earth’s Land Surface Areas (CHELSA)](http://chelsa-climate.org/)
