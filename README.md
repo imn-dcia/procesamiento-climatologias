@@ -8,7 +8,7 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 
 ## Descripción de los datos
 ### CHIRPS
-CHIRPS es un conjunto de datos de precipitación que abarca las latitudes entre 50°S y 50°N (para todas las longitudes), desde 1981 hasta el presente. El algoritmo de CHIRPS integra imágenes de satélite con datos de estaciones meteorológicas para generar estimados de precipitación diarios, de grupos de cinco días (*pentadals*) y mensuales en una resolución de 0.05°.
+CHIRPS es un conjunto de datos de precipitación que abarca las latitudes entre 50°S y 50°N (para todas las longitudes), desde 1981 hasta el presente. El algoritmo de CHIRPS integra imágenes de satélite con datos de estaciones meteorológicas para generar estimados de precipitación diarios, de grupos de cinco días (*pentadals*), mensuales y anuales en una resolución de 0.05°.
 
 ## Herramientas
 Para ejecutar los programas, se recomienda instalar la distribución de Python incluida en la plataforma [Anaconda](https://www.anaconda.com/).
