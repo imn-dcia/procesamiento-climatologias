@@ -8,7 +8,7 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 
 Estas fuentes contienen conjuntos de datos correspondientes a variables climáticas como precipitación, temperatura y radiación, disponibles en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), en formatos raster como TIFF, NetCDF, BIL o PNG.
 
-El objetivo es generar estructuras de datos de la forma:
+El objetivo de los programas desarrollados es generar estructuras de datos de la forma:
 
 | id_localidad | t1  | t2  | ... | tn  |
 |--------------|-----|-----|-----|-----|
