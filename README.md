@@ -6,6 +6,17 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 * [MERRAclim](https://datadryad.org/stash/dataset/doi:10.5061/dryad.s2v81)
 * [WorldClim](http://www.worldclim.org/)
 
+Estas fuentes contienen conjuntos de datos climáticos como precipitación, temperatura y radiación, disponibles en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), y en formatos como TIFF, NetCDF, BIL o PNG.
+
+El objetivo es generar estructuras de datos de la forma:
+
+| id_localidad | t1  | t2  | ... | tn  |
+|--------------|-----|-----|-----|-----|
+| ...          | ... | ... | ... | ... |
+| ...          | ... | ... | ... | ... |
+| ...          | ... | ... | ... | ... |
+
+
 ## Descripción de los datos
 ### CHIRPS
 CHIRPS es un conjunto de datos de precipitación que abarca las latitudes entre 50°S y 50°N (para todas las longitudes), desde 1981 hasta el presente. El algoritmo de CHIRPS integra imágenes de satélite con datos de estaciones meteorológicas para generar estimados de precipitación en intervalos de tiempo diarios, de grupos de cinco días (*pentadals*), mensuales y anuales en una resolución espacial de 0.05°.
