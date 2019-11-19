@@ -6,7 +6,7 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 * [MERRAclim](https://datadryad.org/stash/dataset/doi:10.5061/dryad.s2v81)
 * [WorldClim](http://www.worldclim.org/)
 
-Estas fuentes contienen conjuntos de datos climáticos como precipitación, temperatura y radiación, disponibles en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), y en formatos como TIFF, NetCDF, BIL o PNG.
+Estas fuentes contienen conjuntos de datos correspondientes a variables climáticas como precipitación, temperatura y radiación, disponibles en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), en formatos raster como TIFF, NetCDF, BIL o PNG.
 
 El objetivo es generar estructuras de datos de la forma:
 
@@ -16,6 +16,9 @@ El objetivo es generar estructuras de datos de la forma:
 | ...          | ... | ... | ... | ... |
 | ...          | ... | ... | ... | ... |
 
+En donde:
+* `id_localidad` corresponde a la localidad para la que se está reportando el valor de la variable climática. Puede representarse, por ejemplo, mediante la celda de un raster o el punto del centroide correspondiente.
+* `t1`, `t2`, ..., `tn` corresponden a los tiempos en los que se está reportando el valor de la variable climática (ej. días, semanas, meses o años).
 
 ## Descripción de los datos
 ### CHIRPS
