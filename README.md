@@ -20,7 +20,7 @@ En donde:
 * `id_localidad` corresponde a la localidad para la que se está reportando el valor de la variable climática. Puede representarse, por ejemplo, mediante la celda de un raster o el punto del centroide correspondiente.
 * `t1`, `t2`, ..., `tn` corresponden a los tiempos en los que se está reportando el valor de la variable climática (ej. días, semanas, meses o años).
 
-## Descripción de los datos
+## Descripción de los datos climáticos
 ### CHIRPS
 CHIRPS es un conjunto de datos de precipitación que abarca las latitudes entre 50°S y 50°N (para todas las longitudes), desde 1981 hasta el presente. El algoritmo de CHIRPS integra imágenes de satélite con datos de estaciones meteorológicas para generar estimados de precipitación en intervalos de tiempo diarios, de grupos de cinco días (*pentadals*), mensuales y anuales en una resolución espacial de 0.05°.
 
