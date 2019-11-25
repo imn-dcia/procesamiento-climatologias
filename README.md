@@ -5,6 +5,7 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 * [Climatologies at High resolution for the Earth’s Land Surface Areas (CHELSA)](http://chelsa-climate.org/)
 * [MERRAclim](https://datadryad.org/stash/dataset/doi:10.5061/dryad.s2v81)
 * [WorldClim](http://www.worldclim.org/)
+* [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5)
 
 Estas fuentes contienen conjuntos de datos correspondientes a variables climáticas como precipitación, temperatura y radiación, disponibles en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), en formatos raster como TIFF, NetCDF, BIL o PNG.
 
@@ -34,6 +35,8 @@ Para ejecutar los programas, se recomienda instalar la distribución de Python i
 
 ## Bibliografía
 C. Vega, G., Pertierra, L. R., & Olalla-Tárraga, M. Á. (2017). MERRAclim, a high-resolution global dataset of remotely sensed bioclimatic variables for ecological modelling. Scientific Data, 4(1), 170078. https://doi.org/10.1038/sdata.2017.78
+
+Copernicus Climate Change Service (C3S) (2017): ERA5: Fifth generation of ECMWF atmospheric reanalyses of the global climate. Copernicus Climate Change Service Climate Data Store (CDS), recuperado el 22 de noviembre de 2019. https://cds.climate.copernicus.eu/cdsapp#!/home
 
 Fick, S. E., & Hijmans, R. J. (2017). WorldClim 2: New 1-km spatial resolution climate surfaces for global land areas. International Journal of Climatology, 37(12), 4302–4315. https://doi.org/10.1002/joc.5086
 
