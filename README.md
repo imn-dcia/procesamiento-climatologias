@@ -9,7 +9,7 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 
 Estas climatologías pueden encontrarse en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), en formatos raster como TIFF, NetCDF, BIL o PNG.
 
-El objetivo de los programas desarrollados es generar, con base en datos de climatologías, estructuras de la forma:
+El objetivo de los programas desarrollados es generar estructuras de datos de la forma:
 
 | localidad  | t1  | t2  | ... | tn  |
 |------------|-----|-----|-----|-----|
