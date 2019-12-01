@@ -1,5 +1,5 @@
 # Procesamiento de climatologías
-Este repositorio contiene programas en el lenguaje [Python](https://www.python.org/) para la generación de series temporales de datos climáticos a partir de fuentes como:
+Este repositorio contiene programas en el lenguaje [Python](https://www.python.org/) para el procesamiento de climatologías. En este contexto, una climatología se define como un conjunto de medidas estadísticas que resumen series temporales de variables climáticas como precipitación, temperatura, radiación solar y velocidad del viento, entre otras. Algunos ejemplos de climatologías cuyos datos están públicamente disponibles son:
 
 * [Climate Hazards group Infrared Precipitation with Stations (CHIRPS)](https://www.chc.ucsb.edu/data/chirps)
 * [Climatologies at High resolution for the Earth’s Land Surface Areas (CHELSA)](http://chelsa-climate.org/)
@@ -7,7 +7,7 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 * [WorldClim](http://www.worldclim.org/)
 * [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5)
 
-Estas fuentes contienen conjuntos de datos correspondientes a variables climáticas como precipitación, temperatura y radiación, disponibles en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), en formatos raster como TIFF, NetCDF, BIL o PNG.
+Estas climatologías están disponibles en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), en formatos raster como TIFF, NetCDF, BIL o PNG.
 
 El objetivo de los programas desarrollados es generar estructuras de datos de la forma:
 
