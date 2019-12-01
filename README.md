@@ -1,5 +1,5 @@
 # Procesamiento de climatologías
-Este repositorio contiene programas en el lenguaje [Python](https://www.python.org/) para el procesamiento de climatologías. En este contexto, una climatología se define como un conjunto de medidas estadísticas que resumen series temporales de variables climáticas como precipitación, temperatura, radiación solar y velocidad del viento, entre otras. Algunos ejemplos de climatologías cuyos datos están públicamente disponibles son:
+Este repositorio contiene programas en el lenguaje [Python](https://www.python.org/) para el procesamiento de climatologías. Una climatología se define como un conjunto de medidas estadísticas que resumen series temporales de variables climáticas como precipitación, temperatura, radiación solar y velocidad del viento, entre otras. Algunos ejemplos de climatologías cuyos datos están públicamente disponibles son:
 
 * [Climate Hazards group Infrared Precipitation with Stations (CHIRPS)](https://www.chc.ucsb.edu/data/chirps)
 * [Climatologies at High resolution for the Earth’s Land Surface Areas (CHELSA)](http://chelsa-climate.org/)
