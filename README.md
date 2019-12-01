@@ -11,14 +11,14 @@ Estas climatologías están disponibles en varias resoluciones espaciales (ej. 3
 
 El objetivo de los programas desarrollados es generar estructuras de datos de la forma:
 
-| id_localidad | t1  | t2  | ... | tn  |
-|--------------|-----|-----|-----|-----|
-| ...          | ... | ... | ... | ... |
-| ...          | ... | ... | ... | ... |
-| ...          | ... | ... | ... | ... |
+| localidad  | t1  | t2  | ... | tn  |
+|------------|-----|-----|-----|-----|
+| ...        | ... | ... | ... | ... |
+| ...        | ... | ... | ... | ... |
+| ...        | ... | ... | ... | ... |
 
 En donde:
-* `id_localidad` corresponde a la localidad para la que se está reportando el valor de la variable climática. Puede representarse, por ejemplo, mediante la celda de un raster o el punto del centroide correspondiente.
+* `localidad` corresponde a celda raster para la que se está reportando el valor de la variable climática. En este caso, se representa mediante la geometría de punto del centro de la celda.
 * `t1`, `t2`, ..., `tn` corresponden a los tiempos en los que se está reportando el valor de la variable climática (ej. días, semanas, meses o años).
 
 ## Descripción de los datos climáticos
