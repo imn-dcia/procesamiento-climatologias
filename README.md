@@ -45,6 +45,8 @@ Funk, C., Peterson, P., Landsfeld, M., Pedreros, D., Verdin, J., Shukla, S., …
 Karger, D. N., Conrad, O., Böhner, J., Kawohl, T., Kreft, H., Soria-Auza, R. W., … Kessler, M. (2017). Climatologies at high resolution for the earth’s land surface areas. Scientific Data, 4(1), 1–20. https://doi.org/10.1038/sdata.2017.122
 
 ## Otros recursos
+[Climatologías marítimas (video de la Agencia Espacial de Meteorología)](https://www.youtube.com/watch?v=KNdtahbiEd0)
+
 [¿Cómo descargar información automatizada raster de CHIRPS haciendo uso de R? - SIG (video de Fabio Castro)](https://www.youtube.com/watch?v=V1jbSAmM940&fbclid=IwAR1dTVLgQvNSpBn_Zer8EPPIfXHoNn_Y71RfgypN5lVfF1ziSLoL3mm2iKg)
 
 [Datos de climas: práctica en R (video de Ángela Cuervo)](https://www.youtube.com/watch?v=YZAq2yLZPF4&feature=youtu.be)
