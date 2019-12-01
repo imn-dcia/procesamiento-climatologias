@@ -7,7 +7,7 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 * [WorldClim](http://www.worldclim.org/)
 * [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5)
 
-Estas climatologías están disponibles en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), en formatos raster como TIFF, NetCDF, BIL o PNG.
+Estas climatologías pueden encontrarse en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), en formatos raster como TIFF, NetCDF, BIL o PNG.
 
 El objetivo de los programas desarrollados es generar estructuras de datos de la forma:
 
