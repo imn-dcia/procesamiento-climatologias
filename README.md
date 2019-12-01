@@ -9,7 +9,7 @@ Este repositorio contiene programas en el lenguaje [Python](https://www.python.o
 
 Estas climatologías pueden encontrarse en varias resoluciones espaciales (ej. 30", 0.5°, 2.5°) y temporales (ej. días, meses, años), en formatos raster como TIFF, NetCDF, BIL o PNG.
 
-El objetivo de los programas desarrollados es generar estructuras de datos de la forma:
+El objetivo de los programas desarrollados es generar, con base en datos de climatologías, estructuras de la forma:
 
 | localidad  | t1  | t2  | ... | tn  |
 |------------|-----|-----|-----|-----|
@@ -18,10 +18,10 @@ El objetivo de los programas desarrollados es generar estructuras de datos de la
 | ...        | ... | ... | ... | ... |
 
 En donde:
-* `localidad` corresponde a cada celda raster para la que se está reportando el valor de la variable climática. En este caso, se representa mediante la geometría de punto del centro de la celda.
+* `localidad` corresponde a cada celda raster para la que se está reportando el valor de una variable climática. En este caso, se representa mediante la geometría de punto del centro de la celda.
 * `t1`, `t2`, ..., `tn` corresponden a los tiempos en los que se está reportando el valor de la variable climática (ej. días, semanas, meses o años).
 
-## Descripción de los datos climáticos
+## Descripción de las climatologías
 ### CHIRPS
 CHIRPS es un conjunto de datos de precipitación que abarca las latitudes entre 50°S y 50°N (para todas las longitudes), desde 1981 hasta el presente. El algoritmo de CHIRPS integra imágenes de satélite con datos de estaciones meteorológicas para generar estimados de precipitación en intervalos de tiempo diarios, de grupos de cinco días (*pentadals*), mensuales y anuales en una resolución espacial de 0.05°.
 
