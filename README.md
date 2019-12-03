@@ -21,7 +21,7 @@ El objetivo de los programas desarrollados es generar estructuras de datos de la
 
 En donde:
 * `localidad` corresponde a cada celda raster para la que se está reportando el valor de una variable climática. En este caso, se representa mediante la geometría correspondiente al punto central de la celda.
-* `t1`, `t2`, ..., `tn` corresponden a los tiempos en los que se está reportando el valor de la variable climática (ej. días, semanas, meses o años).
+* `t1`, `t2`, ..., `tn` corresponden a los tiempos (ej. días, semanas, meses o años) en los que se está reportando el valor de la variable climática.
 
 ## Descripción de las climatologías
 ### CHIRPS
