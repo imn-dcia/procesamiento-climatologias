@@ -32,6 +32,12 @@ Además de la cobertura cuasi-global (50°S - 50°N), CHIRPS ofrece subconjuntos
 El sitio con los datos para descargar está en:
 [ftp://ftp.chg.ucsb.edu/pub/org/chg/products/CHIRPS-2.0](http://bit.ly/climate-chirps)
 
+### CHELSA
+CHELSA es un conjunto de datos de clima de alta resolución (30 arco segundos) para zonas terrestres. Incluye patrones mensuales de temperaturas y precipitaciones medias desde el año 1979.
+
+El sitio con los datos para descargar está en:
+[http://chelsa-climate.org/downloads/](http://chelsa-climate.org/downloads/)
+
 ## Herramientas
 Para ejecutar los programas, se recomienda instalar la distribución de Python incluida en la plataforma [Anaconda](https://www.anaconda.com/).
 
