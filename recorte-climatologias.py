@@ -19,7 +19,7 @@ for Image in ImageList:
     OutImage = OutDir + Image.replace('.tiff', '_recortado.tiff') # Defines Output Image
 
     # Clip image
-    subprocess.call('gdalwarp -of GTiff -co "COMPRESS=DEFLATE" -tr '+TargetRes+ ' -cutline ' +Shapefile+ ' -crop_to_cutline ' +Image+ ' ' +OutImage, shell=True)
+    subprocess.call('gdalwarp -of GTiff -co "COMPRESS=DEFLATE" -tr '+TargetRes+ ' -cutline ' +Shapefile+ ' -crop_to_cutline ' +Image+ ' ' +OutImage + ' -srcnodata 65535 -dstnodata 65535', shell=True)
 
     # Build image overviews
     subprocess.call('gdaladdo --config COMPRESS_OVERVIEW DEFLATE ' +OutImage+ ' 2 4 8 16 32 64', shell=True)
