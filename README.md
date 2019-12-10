@@ -41,6 +41,14 @@ El sitio con los datos para descargar está en:
 ## Herramientas
 Para ejecutar los programas, se recomienda instalar la distribución de Python incluida en la plataforma [Anaconda](https://www.anaconda.com/).
 
+## Programas confeccionados
+Se elaboraron dos programas:
+* [Recorte de climatologías](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/recorte-climatologias.py): recorta los archivos raster de las climatologías con base en un archivo vectorial (ej. _shapefile_).
+* [Procesamiento de climatologías](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/procesamiento-climatologias.ipynb): genera los archivos de salida con la estructura descrita en la sección introductoria.
+
+## Ejemplos de resultados
+
+
 ## Bibliografía
 Álvarez Francoso, J.I. (2016). Geovisualización de grandes volúmenes de datos ambientales. Diseño e implementación de un sistema para el acceso y la difusión de datos globales. (Tesis doctoral inédita). Universidad de Sevilla, Sevilla. Recuperado de https://idus.us.es/xmlui/handle/11441/45259
 
