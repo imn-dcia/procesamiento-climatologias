@@ -49,6 +49,9 @@ Se elaboraron dos programas:
 * [Procesamiento de climatologías](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/procesamiento-climatologias.ipynb): genera los archivos de salida con la estructura descrita en la sección introductoria.
 
 ## Ejemplos de resultados
+Se procesaron los datos mensuales de precipitación de CHELSA para el período 1981-2010, con las siguientes agrupaciones:
+
+### Promedio de precipitación durante 1981
 
 
 ## Bibliografía
