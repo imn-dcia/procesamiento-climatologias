@@ -57,6 +57,9 @@ Se procesaron los datos mensuales de precipitación de CHELSA para el período 1
 ### Promedio de precipitación del mes de enero durante el período 1981-2010
 ![Precipitación de enero durante 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA-Enero_1981-2010.png)
 
+### Promedio de precipitación del mes de junio durante el período 1981-2010
+![Precipitación de junio durante 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA-Junio_1981-2010.png)
+
 ## Bibliografía
 Álvarez Francoso, J.I. (2016). Geovisualización de grandes volúmenes de datos ambientales. Diseño e implementación de un sistema para el acceso y la difusión de datos globales. (Tesis doctoral inédita). Universidad de Sevilla, Sevilla. Recuperado de https://idus.us.es/xmlui/handle/11441/45259
 
