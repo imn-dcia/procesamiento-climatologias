@@ -4,7 +4,7 @@ import os
 
 ImageList = sorted(glob.glob('*.tiff'))
 
-Shapefile = 'Borde_CR_Oficial_IGN_2018_wgs84.shp'
+Shapefile = 'Borde_CR_Oficial_IGN_2018_continental_wgs84.shp'
 
 TargetRes = '0.00833333 0.00833333' # Defines the target resolution
 
