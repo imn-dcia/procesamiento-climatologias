@@ -52,7 +52,7 @@ Se elaboraron dos programas:
 Se procesaron los datos mensuales de precipitación de CHELSA para el período 1981-2010, con las siguientes agrupaciones:
 
 ### Promedio de precipitación durante 1981
-
+![Precipitación durante 1981][img/CHELSA-1981.png]
 
 ## Bibliografía
 Álvarez Francoso, J.I. (2016). Geovisualización de grandes volúmenes de datos ambientales. Diseño e implementación de un sistema para el acceso y la difusión de datos globales. (Tesis doctoral inédita). Universidad de Sevilla, Sevilla. Recuperado de https://idus.us.es/xmlui/handle/11441/45259
