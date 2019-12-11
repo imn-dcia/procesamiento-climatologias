@@ -15,9 +15,9 @@ El objetivo de los programas desarrollados es generar estructuras de datos de la
 
 | localidad  | t1  | t2  | ... | tn  |suma |promedio |
 |------------|-----|-----|-----|-----|-----|---------|
-| ...        | ... | ... | ... | ... | ... | ....... |
-| ...        | ... | ... | ... | ... | ... | ....... |
-| ...        | ... | ... | ... | ... | ... | ....... |
+| ...        | ... | ... | ... | ... | ... |   ...   |
+| ...        | ... | ... | ... | ... | ... |   ...   |
+| ...        | ... | ... | ... | ... | ... |   ...   |
 
 En donde:
 * `localidad` corresponde a cada celda raster para la que se está reportando el valor de una variable climática. En este caso, se representa mediante la geometría correspondiente al punto central de la celda.
