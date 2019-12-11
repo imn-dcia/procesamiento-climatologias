@@ -55,8 +55,8 @@ Se procesaron los datos mensuales de precipitación de CHELSA para el período 1
 
 ### Acumulado de precipitación durante 1981
 ![Acumulado de precipitación durante 1981](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_1981_suma.png)
-[Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1981.zip)
-[Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1981.csv)
+* [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1981.zip)
+* [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1981.csv)
 
 ### Promedio de precipitación del mes de enero durante el período 1981-2010
 ![Promedio de precipitación del mes de enero durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Enero_1981-2010_promedio.png)
