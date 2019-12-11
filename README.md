@@ -13,15 +13,17 @@ Estas climatologías pueden encontrarse en varias resoluciones espaciales (ej. 3
 
 El objetivo de los programas desarrollados es generar estructuras de datos de la forma:
 
-| localidad  | t1  | t2  | ... | tn  |
-|------------|-----|-----|-----|-----|
-| ...        | ... | ... | ... | ... |
-| ...        | ... | ... | ... | ... |
-| ...        | ... | ... | ... | ... |
+| localidad  | t1  | t2  | ... | tn  |suma |promedio |
+|------------|-----|-----|-----|-----|-----|---------|
+| ...        | ... | ... | ... | ... | ... | ....... |
+| ...        | ... | ... | ... | ... | ... | ....... |
+| ...        | ... | ... | ... | ... | ... | ....... |
 
 En donde:
 * `localidad` corresponde a cada celda raster para la que se está reportando el valor de una variable climática. En este caso, se representa mediante la geometría correspondiente al punto central de la celda.
 * `t1`, `t2`, ..., `tn` corresponden a los tiempos (ej. días, semanas, meses o años) en los que se está reportando el valor de la variable climática.
+* `suma` es la suma de los valores de la variable climática para cada localidad.
+* `promedio` es el promedio de los valores de la variable climática para cada localidad.
 
 ## Descripción de las climatologías
 A manera de ejemplo, se describen con más detalle algunas de las climatologías mencionadas.
