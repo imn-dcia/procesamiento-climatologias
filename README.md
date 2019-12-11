@@ -53,14 +53,20 @@ Se elaboraron dos programas:
 ## Ejemplos de resultados
 Se procesaron los datos mensuales de precipitación de CHELSA para el período 1981-2010, con las siguientes agrupaciones:
 
-### Promedio de precipitación durante 1981
-![Precipitación durante 1981](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA-1981.png)
+### Acumulado de precipitación durante 1981
+![Acumulado de precipitación durante 1981](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_1981_suma.png)
+[Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1981.zip)
+[Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1981.csv)
 
 ### Promedio de precipitación del mes de enero durante el período 1981-2010
-![Precipitación de enero durante 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA-Enero_1981-2010.png)
+![Promedio de precipitación del mes de enero durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Enero_1981-2010_promedio.png)
+[Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Enero_1981-2010_promedio.zip)
+[Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Enero_1981-2010_promedio.csv)
 
 ### Promedio de precipitación del mes de junio durante el período 1981-2010
-![Precipitación de junio durante 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA-Junio_1981-2010.png)
+![Promedio de precipitación del mes de junio durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Junio_1981-2010_promedio.png)
+[Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Enero_1981-2010_promedio.zip)
+[Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Enero_1981-2010_promedio.csv)
 
 ## Bibliografía
 Álvarez Francoso, J.I. (2016). Geovisualización de grandes volúmenes de datos ambientales. Diseño e implementación de un sistema para el acceso y la difusión de datos globales. (Tesis doctoral inédita). Universidad de Sevilla, Sevilla. Recuperado de https://idus.us.es/xmlui/handle/11441/45259
