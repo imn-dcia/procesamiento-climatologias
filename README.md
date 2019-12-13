@@ -73,6 +73,11 @@ Se procesaron los datos mensuales de precipitación de CHELSA para el período 1
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Mayo_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Mayo_1981-2010.csv)
 
+### Promedio de precipitación del mes de junio durante el período 1981-2010
+![Promedio de precipitación del mes de junio durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Junio_1981-2010_promedio.png)
+* [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Junio_1981-2010.zip)
+* [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Junio_1981-2010.csv)
+
 ### Promedio de precipitación del mes de julio durante el período 1981-2010
 ![Promedio de precipitación del mes de julio durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Julio_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Julio_1981-2010.zip)
