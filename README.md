@@ -51,79 +51,83 @@ Se elaboraron dos programas:
 * [Procesamiento de climatologías](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/procesamiento-climatologias.ipynb): genera los archivos de salida con la estructura descrita en la sección introductoria.
 
 ## Ejemplos de resultados
-Se procesaron los datos mensuales de precipitación de CHELSA para el período 1981-2010, con las siguientes agrupaciones:
+Se procesaron los datos mensuales de precipitación de CHELSA para el período 1981-2010.
 
-### Acumulado de precipitación durante 1981
+### Acumulados anuales de precipitación durante el periodo 1981-2000
+
+#### 1981
 ![Acumulado de precipitación durante 1981](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_1981_suma.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1981.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1981.csv)
 
-### Acumulado de precipitación durante 1982
+#### 1982
 ![Acumulado de precipitación durante 1982](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_1982_suma.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1982.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1982.csv)
 
-### Acumulado de precipitación durante 1983
+#### 1983
 ![Acumulado de precipitación durante 1983](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_1983_suma.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1983.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1983.csv)
 
-### Promedio de precipitación del mes de enero durante el período 1981-2010
+### Promedios mensuales de precipitación durante el periodo 1981-2000
+
+#### Enero
 ![Promedio de precipitación del mes de enero durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Enero_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Enero_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Enero_1981-2010.csv)
 
-### Promedio de precipitación del mes de febrero durante el período 1981-2010
+#### Febrero
 ![Promedio de precipitación del mes de febrero durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Febrero_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Febrero_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Febrero_1981-2010.csv)
 
-### Promedio de precipitación del mes de marzo durante el período 1981-2010
+#### Marzo
 ![Promedio de precipitación del mes de marzo durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Marzo_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Marzo_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Marzo_1981-2010.csv)
 
-### Promedio de precipitación del mes de abril durante el período 1981-2010
+#### Abril
 ![Promedio de precipitación del mes de abril durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Abril_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Abril_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Abril_1981-2010.csv)
 
-### Promedio de precipitación del mes de mayo durante el período 1981-2010
+#### Mayo
 ![Promedio de precipitación del mes de mayo durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Mayo_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Mayo_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Mayo_1981-2010.csv)
 
-### Promedio de precipitación del mes de junio durante el período 1981-2010
+#### Junio
 ![Promedio de precipitación del mes de junio durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Junio_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Junio_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Junio_1981-2010.csv)
 
-### Promedio de precipitación del mes de julio durante el período 1981-2010
+#### Julio
 ![Promedio de precipitación del mes de julio durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Julio_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Julio_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Julio_1981-2010.csv)
 
-### Promedio de precipitación del mes de agosto durante el período 1981-2010
+#### Agosto
 ![Promedio de precipitación del mes de agosto durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Agosto_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Agosto_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Agosto_1981-2010.csv)
 
-### Promedio de precipitación del mes de setiembre durante el período 1981-2010
+#### Setiembre
 ![Promedio de precipitación del mes de setiembre durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Setiembre_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Setiembre_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Setiembre_1981-2010.csv)
 
-### Promedio de precipitación del mes de octubre durante el período 1981-2010
+#### Octubre
 ![Promedio de precipitación del mes de octubre durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Octubre_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Octubre_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Octubre_1981-2010.csv)
 
-### Promedio de precipitación del mes de noviembre durante el período 1981-2010
+#### Noviembre
 ![Promedio de precipitación del mes de noviembre durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Noviembre_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Noviembre_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Noviembre_1981-2010.csv)
 
-### Promedio de precipitación del mes de diciembre durante el período 1981-2010
+#### Diciembre
 ![Promedio de precipitación del mes de diciembre durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Diciembre_1981-2010_promedio.png)
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Diciembre_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Diciembre_1981-2010.csv)
