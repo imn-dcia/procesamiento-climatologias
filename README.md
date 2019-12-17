@@ -70,6 +70,11 @@ Se procesaron los datos mensuales de precipitación de CHELSA para el período 1
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1983.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1983.csv)
 
+#### 1984
+![Acumulado de precipitación durante 1984](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_1984_suma.png)
+* [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1984.zip)
+* [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1984.csv)
+
 ### Promedios mensuales de precipitación durante el periodo 1981-2000
 
 #### Enero
