@@ -142,6 +142,11 @@ Se procesaron los datos mensuales de precipitación de CHELSA para el período 1
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1985.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1985.csv)
 
+#### 1986
+![Acumulado de precipitación durante 1986](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_1986_suma.png)
+* [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1986.zip)
+* [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_1986.csv)
+
 ## Bibliografía
 Álvarez Francoso, J.I. (2016). Geovisualización de grandes volúmenes de datos ambientales. Diseño e implementación de un sistema para el acceso y la difusión de datos globales. (Tesis doctoral inédita). Universidad de Sevilla, Sevilla. Recuperado de https://idus.us.es/xmlui/handle/11441/45259
 
