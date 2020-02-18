@@ -53,7 +53,7 @@ Se elaboraron dos programas:
 ## Ejemplos de resultados
 Se procesaron los datos mensuales de precipitación de CHELSA para el período 1981-2010.
 
-### Promedios mensuales de precipitación durante el periodo 1981-2000
+### Promedios mensuales de precipitación durante el periodo 1981-2010
 
 #### Enero
 ![Promedio de precipitación del mes de enero durante el período 1981-2010](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_Enero_1981-2010_promedio.png)
@@ -115,7 +115,7 @@ Se procesaron los datos mensuales de precipitación de CHELSA para el período 1
 * [Shapefile](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Diciembre_1981-2010.zip)
 * [Archivo CSV](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/resultados/CHELSA_Diciembre_1981-2010.csv)
 
-### Acumulados anuales de precipitación durante el periodo 1981-2000
+### Acumulados anuales de precipitación durante el periodo 1981-2010
 
 #### 1981
 ![Acumulado de precipitación durante 1981](https://github.com/imn-dcia/procesamiento-climatologias/blob/master/img/CHELSA_1981_suma.png)
