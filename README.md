@@ -53,8 +53,9 @@ $ git clone https://github.com/imn-dcia/procesamiento-climatologias.git
 
 ### Ejecución del notebook
 ```terminal
-# Interfaz de Jupyter
+# Inicio de la interfaz de Jupyter
 $ jupyter notebook
+
 # Luego debe abrirse y ejecutarse el notebook contenido en el repositorio.
 ```
 
