@@ -39,7 +39,7 @@ $ conda install python=3 geopandas shapely rasterio notebook git
 # Activación
 $ conda activate imn
 
-# Desactivación
+# Desactivación (para el final del proceso)
 $ conda deactivate
 ```
 
