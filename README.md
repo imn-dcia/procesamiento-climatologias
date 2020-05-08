@@ -30,6 +30,9 @@ Para la ejecución de los programas contenidos en este repositorio, se recomiend
 
 ### Creación y activación de un ambiente en Conda
 ```terminal
+# Actualización de Conda
+$ conda update -n base -c defaults conda
+
 # Creación del ambiente
 $ conda create -n imn
 $ conda config --env --add channels conda-forge
