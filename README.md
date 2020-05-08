@@ -25,6 +25,36 @@ En donde:
 * `suma` es la suma de los valores de la variable climática para cada localidad.
 * `promedio` es el promedio de los valores de la variable climática para cada localidad.
 
+## Preparativos para la ejecución de los programas contenidos en este repositorio
+Para la ejecución de los programas contenidos en este repositorio, se recomienda la creación de un ambiente en el administrador de paquetes [Conda](https://docs.conda.io/). Posteriormente, el repositorio debe clonarse con el sistema de control de versiones [Git](https://git-scm.com/). Los _notebooks_ deben ejecutarse con [Jupyter Notebook](https://jupyter.org/).
+
+### Creación y activación de un ambiente en Conda
+```terminal
+# Creación del ambiente
+$ conda create -n imn
+$ conda config --env --add channels conda-forge
+$ conda config --env --set channel_priority strict
+$ conda install python=3 geopandas shapely rasterio notebook git
+
+# Activación
+$ conda activate imn
+
+# Desactivación
+$ conda deactivate
+```
+
+### Clonación de este repositorio
+```terminal
+$ git clone https://github.com/imn-dcia/procesamiento-climatologias.git
+```
+
+### Ejecución del notebook
+```terminal
+# Interfaz de Jupyter
+$ jupyter notebook
+# Luego debe abrirse y ejecutarse el notebook contenido en el repositorio.
+```
+
 ## Descripción de las climatologías
 A manera de ejemplo, se describen con más detalle algunas de las climatologías mencionadas.
 
