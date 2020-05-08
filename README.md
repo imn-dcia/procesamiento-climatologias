@@ -35,9 +35,10 @@ $ conda update -n base -c defaults conda
 
 # Creación del ambiente
 $ conda create -n imn
+$ conda install -c anaconda jupyter
 $ conda config --env --add channels conda-forge
 $ conda config --env --set channel_priority strict
-$ conda install python=3 geopandas shapely rasterio notebook git
+$ conda install python=3 geopandas shapely rasterio git
 
 # Activación
 $ conda activate imn
